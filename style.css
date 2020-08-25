@@ -1,12 +1,17 @@
 body {
     margin: 0;
-    background-color: rgba(22, 22, 22, 0.5);
+    background-color: rgba(155, 50, 9, 0.651);
 }
 * {
     box-sizing: border-box;
 }
 .header {
     display: inline-block;
+}
+.title {
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24;
 }
 .items-table {
     margin: 5 5;
