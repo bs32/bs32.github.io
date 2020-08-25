@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-color: darkgrey;
+    background-color: rgba(22, 22, 22, 0.5);
 }
 * {
     box-sizing: border-box;
@@ -14,7 +14,7 @@ body {
 }
 img {
     margin: 0;
-    width: 70px;
+    width: 19%;
 }
 .item-white {
     background-color: #f0f0f0;
