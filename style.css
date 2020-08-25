@@ -9,21 +9,22 @@ body {
     display: inline-block;
 }
 .title {
-    margin: 0;
+    margin: 15;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 24;
+    font-weight: 750;
+    font-size: 4vh;
 }
 .items-table {
-    margin: 5 5;
+    margin: 15 15;
     /* width: 100vh; */
 }
 img {
-    margin: 0;
-    width: 24%;
+    margin: 5;
+    width: 23.5%;
 }
 .item-white {
-    background-color: #f0f0f0;
+    background-color: #f0f0f080;
 }
 .item-green {
-    background-color: #00FF66;
+    background-color: #00ff6680;
 }
