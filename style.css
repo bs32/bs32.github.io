@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    background-color: darkgrey;
+}
+* {
+    box-sizing: border-box;
+}
+.header {
+    display: inline-block;
+}
+.items-table {
+    margin: 5 5;
+    /* width: 100vh; */
+}
+img {
+    margin: 0;
+    width: 70px;
+}
+.item-white {
+    background-color: #f0f0f0;
+}
+.item-green {
+    background-color: #00FF66;
+}
