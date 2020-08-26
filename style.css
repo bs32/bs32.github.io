@@ -6,7 +6,7 @@ body {
     box-sizing: border-box;
 }
 .header {
-    display: inline-flexbox;
+    display: inline-block;
 }
 .title {
     margin: 5;
@@ -18,7 +18,7 @@ body {
     text-shadow: 1.5px 1.5px 2px #262e4e;
 }
 .items-table {
-    margin-left: 35px;
+    margin: 0 35px;
 }
 img {
     margin-right: 0;
